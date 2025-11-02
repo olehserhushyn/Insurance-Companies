@@ -1,4 +1,4 @@
-# Database_Insurance-companies-term-paper-
+# Insurance Companies (Database term paper)
 Database (PSQL) and Windows Forms application to work with it.
 
 # Database Diagram
